@@ -94,9 +94,9 @@ This site is deployed using **GitHub Pages**:
 ## 📞 Contact
 
 **Preksha Health Point**
-📍 [Shop address]
-📞 +91-XXXXXXXXXX
-✉️ info@prekshahealthpoint.com
+📍 Vapi - Gujarat
+📞 +91-88494 60854
+✉️ sales@prekshahealthpoint.com
 🕒 Mon–Sat, 10:00 AM – 8:00 PM
 
 ---
